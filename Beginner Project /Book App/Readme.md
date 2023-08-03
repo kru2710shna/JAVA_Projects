@@ -31,7 +31,6 @@ The program is designed to compile without errors, and it generates the expected
 ## Author
 
 - Krushna Thakkar
-- Student ID: 302208101
 
 ## Grading
 
