@@ -67,7 +67,7 @@ The program is designed to compile without errors, and it generates the expected
 - Krushna Thakkar
 - Student ID: 302208101
 
-## Grading/ quality can be judge on the basis of- 
+## Grading/ Quality can be judged on the basis of- 
 
 The program adheres to the assignment's grading criteria:
 
